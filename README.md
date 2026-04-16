@@ -12,7 +12,7 @@ Mi experiencia me permite anticipar y superar retos, asegurando un impacto posit
 ## 🏅 Certifications ([ver todas](ENLACE_A_TU_LISTADO_COMPLETO_DE_CERTIFICACIONES))
 
 <p align="left">
-  <img src="https://www.credly.com/earner/earned/badge/7def3e58-7219-4584-97c5-75b95a9b1732" alt="Certificado 1" height="80"/>
+  <img src="https://www.credly.com/badges/7def3e58-7219-4584-97c5-75b95a9b1732/public_url" alt="Certificado 1" height="80"/>
   <img src="URL_INSIGNIA_2" alt="Certificado 2" height="80"/>
   <!-- Agrega más imágenes de tus insignias aquí -->
 </p>
