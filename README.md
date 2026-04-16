@@ -1,18 +1,18 @@
 <!-- PRESENTACIÓN -->
 # 👋 About me
-
+<!--
 Desarrollador(a) [Tu especialidad: por ejemplo, Full Stack, Backend, DevOps...] con experiencia en [años/áreas]. 
 Especializado(a) en [describe tus enfoques principales, tecnologías, industrias, etc.].
 
 Cuento con certificaciones en [nombra las tecnologías principales], que garantizan mi conocimiento y habilidades para aportar soluciones de valor e innovación. 
 Mi experiencia me permite anticipar y superar retos, asegurando un impacto positivo en proyectos y equipos de trabajo.
-
+-->
 ---
 
 ## 🏅 Certifications ([ver todas](ENLACE_A_TU_LISTADO_COMPLETO_DE_CERTIFICACIONES))
 
 <p align="left">
-  <img src="URL_INSIGNIA_1" alt="Certificado 1" height="80"/>
+  <img src="https://www.credly.com/earner/earned/badge/7def3e58-7219-4584-97c5-75b95a9b1732" alt="Certificado 1" height="80"/>
   <img src="URL_INSIGNIA_2" alt="Certificado 2" height="80"/>
   <!-- Agrega más imágenes de tus insignias aquí -->
 </p>
